@@ -5,9 +5,9 @@
     error_reporting(E_ALL);
 
     // put your own values after the equals signs
-    $server   = "server343.web-hosting.com";
-    $username = "benjvfxw_menajaminjiller";
-    $password = "68686843993960";
+    $server   = "localhost";
+    $username = "root";
+    $password = "";
     $database = "favalbums";
 
     try {
